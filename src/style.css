@@ -1,0 +1,15 @@
+input {
+    width: 30px;
+    }
+.column {
+	float: left;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+    }
+
+.Q {width: 120px;}
+
+.X {width: 40px;}
+
+.Y {width: 40px;}
